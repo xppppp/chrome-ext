@@ -1,10 +1,10 @@
 // SAMPLE
 this.manifest = {
-    "name": "Poche",
+    "name": "wallabag",
     "icon": "../assets/48x48.png",
     "settings": [
         {
-            "tab": i18n.get("Poche configuration"),
+            "tab": i18n.get("wallabag configuration"),
             "group": i18n.get("Server information"),
             "name": "base_url",
             "type": "text",
@@ -12,7 +12,7 @@ this.manifest = {
             "text": i18n.get("x-url")
         },
         {
-            "tab": i18n.get("Poche configuration"),
+            "tab": i18n.get("wallabag configuration"),
             "group": i18n.get("Server information"),
             "name": "myDescription",
             "type": "description",

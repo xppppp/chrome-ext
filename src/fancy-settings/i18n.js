@@ -5,9 +5,9 @@ this.i18n = {
         "de": "Optionen",
         "fr": "Paramètres"
     },
-    "Poche configuration": {
-        "en": "Poche configuration",
-        "fr": "Configuration de Poche"
+    "wallabag configuration": {
+        "en": "wallabag configuration",
+        "fr": "Configuration de wallabag"
     },
     "Server information": {
         "en": "Server Information",
@@ -41,7 +41,7 @@ this.i18n = {
         "de": "Passwort:"
     },
     "x-url": {
-        "en": "http://www.domain.com/poche/"
+        "en": "http://www.domain.com/wallabag/"
     },
     "x-characters-pw": {
         "en": "10 - 18 characters",
@@ -52,10 +52,10 @@ this.i18n = {
         "fr": "URL racine"
     },
     "description": {
-        "en": "Type here the base URL of your Poche.<br>\
-            It should look something like <pre>http://www.domain.com/poche/</pre>.",
-        "fr": "Saisissez ici l'URL racine de votre Poche.<br>\
-            Elle devrait ressembler à :<pre>http://www.domain.com/poche/</pre>"
+        "en": "Type here the base URL of your wallabag.<br>\
+            It should look something like <pre>http://www.domain.com/wallabag/</pre>.",
+        "fr": "Saisissez ici l'URL racine de votre wallabag.<br>\
+            Elle devrait ressembler à :<pre>http://www.domain.com/wallabag/</pre>"
     },
     "logout": {
         "en": "Logout",
