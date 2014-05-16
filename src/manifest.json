@@ -1,5 +1,6 @@
 {
   "name": "wallabag",
+  "short_name": "wallabag",
   "version": "1.0",
   "manifest_version": 2,
   "description": "Open wallabag post interface from inside Chrome.",
@@ -13,7 +14,6 @@
   },
   "options_page" : "fancy-settings/index.html",
   "permissions": [
-    "https://www.googleapis.com/",
     "tabs"
   ],
   "offline_enabled": false
