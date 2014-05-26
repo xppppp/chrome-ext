@@ -1,9 +1,9 @@
 {
-  "name": "wallabag",
-  "short_name": "wallabag",
-  "version": "1.0.1",
+  "name": "wallabag-API",
+  "short_name": "wallabag-API",
+  "version": "1.0.1.1",
   "manifest_version": 2,
-  "description": "Open wallabag post interface from inside Chrome.",
+  "description": "Post to wallabag API or open wallabag post interface from inside Chrome.",
   "icons": { "16": "assets/16x16.png",
          "48": "assets/48x48.png",
         "128": "assets/128x128.png" },

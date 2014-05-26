@@ -7,38 +7,46 @@ this.i18n = {
     },
     "wallabag configuration": {
         "en": "wallabag configuration",
-        "fr": "Configuration de wallabag"
+	"de": "Konfiguration für wallabag",
+        "fr": "Configuration de wallabag",
     },
     "Server information": {
         "en": "Server Information",
+	"de": "Serverdaten",
         "fr": "Information sur le serveur"
     },
     "search": {
         "en": "Search",
-        "de": "Suche"
+        "de": "Suche",
+	"fr": "Recherche"
     },
     "nothing-found": {
         "en": "No matches were found.",
-        "de": "Keine Übereinstimmungen gefunden."
+        "de": "Keine Übereinstimmungen gefunden.",
+	"fr": "aucune réponse",
     },
     
     
     
     "information": {
         "en": "Information",
-        "de": "Information"
+        "de": "Information",
+	"fr": "Information",
     },
     "login": {
         "en": "Login",
-        "de": "Anmeldung"
+        "de": "Anmeldung",
+	"fr": "Connexion",
     },
     "username": {
         "en": "Username:",
-        "de": "Benutzername:"
+        "de": "Benutzername:",
+	"fr": "Identifiant:",
     },
     "password": {
         "en": "Password:",
-        "de": "Passwort:"
+        "de": "Passwort:",
+	"fr": "Secret:",
     },
     "x-url": {
         "en": "http://www.domain.com/wallabag/"
